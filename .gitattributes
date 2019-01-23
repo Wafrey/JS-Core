@@ -1,3 +1,5 @@
-css/* linguist-vendored
-*.gs linguist-language=Javascript
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.css linguist-language=js
 
