@@ -10,3 +10,7 @@
 4. [STRINGS AND REGEXP](http://tinyurl.com/y733hlht)
 5. [OBJECTS AND JSON. DOM EVENTS](http://tinyurl.com/y6w6el3f)
 
+
+# JS Advanced
+1. [ADVANCED FUNCTIONS]
+
