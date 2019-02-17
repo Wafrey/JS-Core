@@ -12,5 +12,5 @@
 
 
 # JS Advanced
-1. [ADVANCED FUNCTIONS](http://tinyurl.com/yymtldfs)dasdas
+1. [ADVANCED FUNCTIONS](http://tinyurl.com/yymtldfs)
 
