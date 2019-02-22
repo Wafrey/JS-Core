@@ -14,5 +14,5 @@
 # JS Advanced
 1. [ADVANCED FUNCTIONS](http://tinyurl.com/yymtldfs)
 2. [UNIT TESTING]
-3. [JS CLASSES]
+3. [JS CLASSES](https://tinyurl.com/yyz66krj)
 
