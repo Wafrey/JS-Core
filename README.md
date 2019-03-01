@@ -15,6 +15,6 @@
 1. [ADVANCED FUNCTIONS](http://tinyurl.com/yymtldfs)
 2. [UNIT TESTING](https://tinyurl.com/y2pwqwko)
 3. [JS CLASSES](https://tinyurl.com/yyz66krj)
-4. [OBJECT COMPOSITION]
+4. [OBJECT COMPOSITION](https://tinyurl.com/yyr6fbdo)
 5. JQUERY
 
