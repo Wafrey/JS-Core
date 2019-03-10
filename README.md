@@ -17,4 +17,5 @@
 3. [JS CLASSES](https://tinyurl.com/yyz66krj)
 4. [OBJECT COMPOSITION](https://tinyurl.com/yyr6fbdo)
 5. [JQUERY](https://tinyurl.com/y2uqwk3w)
+6. [Advanced DOM MANIPULATIONS](https://tinyurl.com/y4hbfdf6)
 
