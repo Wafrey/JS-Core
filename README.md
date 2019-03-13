@@ -4,7 +4,7 @@
 
 
 # JS Fundamentals
-1.[JAVASCRIPT SYNTAX AND OPERATORS]
+1.[JAVASCRIPT SYNTAX AND OPERATORS](http://tinyurl.com/yahoqsqu)
 2.[DOCUMENT OBJECT MODEL](http://tinyurl.com/yahoqsqu)
 3.[FUNCTIONS AND LOGIC FLOW](http://tinyurl.com/ychlfjev)
 4.[ARRAYS AND MATRICES](http://tinyurl.com/y776qu4h)
