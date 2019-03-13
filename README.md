@@ -4,13 +4,12 @@
 
 
 # JS Fundamentals
-1.[JAVASCRIPT SYNTAX AND OPERATORS](http://tinyurl.com/yahoqsqu)
-2.[DOCUMENT OBJECT MODEL](http://tinyurl.com/yahoqsqu)
-3.[FUNCTIONS AND LOGIC FLOW](http://tinyurl.com/ychlfjev)
-4.[ARRAYS AND MATRICES](http://tinyurl.com/y776qu4h)
-5.[STRINGS AND REGEXP](http://tinyurl.com/y733hlht)
-6.[OBJECTS AND JSON. DOM EVENTS](http://tinyurl.com/y6w6el3f)
-
+1. [JAVASCRIPT SYNTAX AND OPERATORS](http://tinyurl.com/yahoqsqu)
+2. [DOCUMENT OBJECT MODEL](http://tinyurl.com/yahoqsqu)
+3. [FUNCTIONS AND LOGIC FLOW](http://tinyurl.com/ychlfjev)
+4. [ARRAYS AND MATRICES](http://tinyurl.com/y776qu4h)
+5. [STRINGS AND REGEXP](http://tinyurl.com/y733hlht)
+6. [OBJECTS AND JSON. DOM EVENTS](http://tinyurl.com/y6w6el3f)
 
 # JS Advanced
 1. [ADVANCED FUNCTIONS](http://tinyurl.com/yymtldfs)
