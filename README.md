@@ -19,6 +19,14 @@
 5. [JQUERY](https://tinyurl.com/y2uqwk3w)
 6. [Advanced DOM MANIPULATIONS](https://tinyurl.com/y4hbfdf6)
 
+# JS Applications
+1. REST SERVICES
+2. AJAX AND JQUERY AJAX
+3. ASYNCHRONOUS PROGRAMMING
+4. JS FOR FRONT-END
+5. TEMPLATING
+6. ROUTING AND ARCHITECTURE
+
 # EXAM PREP
 1. [JS Fundamentals](https://tinyurl.com/y2ue6hyb)
 2. [JS Advanced](https://tinyurl.com/y4m4o9uk)
