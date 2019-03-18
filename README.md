@@ -33,6 +33,6 @@
 3. [JS Applications](https://tinyurl.com/y5rxlgmm)
 
 # EXAM
-1. [JS Fundamentals](http://tinyurl.com/yxdhljoj)
+1. [JS Fundamentals - 10.02.2019](http://tinyurl.com/yxdhljoj)
 2. [JS Advanced](https://tinyurl.com/y4m4o9uk)
 3. [JS Applications](https://tinyurl.com/y5rxlgmm)
