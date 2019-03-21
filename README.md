@@ -3,7 +3,7 @@
 [![Software University Logo](https://goo.gl/KYm0Tz)](https://softuni.bg)
 
 
-# JS Fundamentals
+# JS Fundamentals - (From 15 Jan. to 10 Feb.)
 1. [JAVASCRIPT SYNTAX AND OPERATORS](http://tinyurl.com/yahoqsqu)
 2. [DOCUMENT OBJECT MODEL](http://tinyurl.com/yahoqsqu)
 3. [FUNCTIONS AND LOGIC FLOW](http://tinyurl.com/ychlfjev)
@@ -11,7 +11,7 @@
 5. [STRINGS AND REGEXP](http://tinyurl.com/y733hlht)
 6. [OBJECTS AND JSON. DOM EVENTS](http://tinyurl.com/y6w6el3f)
 
-# JS Advanced
+# JS Advanced - (From 12 Feb. to 17 Mar.)
 1. [ADVANCED FUNCTIONS](http://tinyurl.com/yymtldfs)
 2. [UNIT TESTING](https://tinyurl.com/y2pwqwko)
 3. [JS CLASSES](https://tinyurl.com/yyz66krj)
