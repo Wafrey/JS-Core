@@ -20,7 +20,7 @@
 6. [Advanced DOM MANIPULATIONS](https://tinyurl.com/y4hbfdf6)
 
 # JS Applications
-1. [REST AND HTTP REQUESTS]
+1. [REST AND HTTP REQUESTS](http://tinyurl.com/y5ferm2s)
 2. AJAX AND JQUERY AJAX
 3. ASYNCHRONOUS PROGRAMMING
 4. JS FOR FRONT-END
