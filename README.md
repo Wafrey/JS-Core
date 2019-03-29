@@ -19,7 +19,7 @@
 5. [JQUERY](https://tinyurl.com/y2uqwk3w)
 6. [Advanced DOM MANIPULATIONS](https://tinyurl.com/y4hbfdf6)
 
-# JS Applications
+# JS Applications - (From 19 Mar. to 20 Apr. 2019)
 1. [REST AND HTTP REQUESTS](http://tinyurl.com/y5ferm2s)
 2. AJAX AND JQUERY AJAX
 3. [ASYNCHRONOUS PROGRAMMING](http://tinyurl.com/y5k48cfh)
