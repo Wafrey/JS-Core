@@ -21,7 +21,7 @@
 
 # JS Applications - (From 19 Mar. to 20 Apr. 2019)
 1. [REST AND HTTP REQUESTS](http://tinyurl.com/y5ferm2s)
-2. AJAX AND JQUERY AJAX
+2. [AJAX AND JQUERY AJAX](https://tinyurl.com/y62hvclo)
 3. [ASYNCHRONOUS PROGRAMMING](http://tinyurl.com/y5k48cfh)
 4. JS FOR FRONT-END
 5. TEMPLATING
