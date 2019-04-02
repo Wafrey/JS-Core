@@ -23,7 +23,7 @@
 1. [REST AND HTTP REQUESTS](http://tinyurl.com/y5ferm2s)
 2. [AJAX AND JQUERY AJAX](https://tinyurl.com/y62hvclo)
 3. [ASYNCHRONOUS PROGRAMMING](http://tinyurl.com/y5k48cfh)
-4. JS FOR FRONT-END
+4. [JS FOR FRONT-END BOOTSTRAP](http://tinyurl.com/y5jhq2a2)
 5. TEMPLATING
 6. ROUTING AND ARCHITECTURE
 
