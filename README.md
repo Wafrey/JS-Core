@@ -24,7 +24,7 @@
 2. [AJAX AND JQUERY AJAX](https://tinyurl.com/y62hvclo)
 3. [ASYNCHRONOUS PROGRAMMING](http://tinyurl.com/y5k48cfh)
 4. [JS FOR FRONT-END BOOTSTRAP](http://tinyurl.com/y5jhq2a2)
-5. TEMPLATING
+5. [TEMPLATING](http://tinyurl.com/yxl54g4v)
 6. ROUTING AND ARCHITECTURE
 
 # EXAM PREP
