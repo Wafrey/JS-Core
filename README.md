@@ -25,7 +25,7 @@
 3. [ASYNCHRONOUS PROGRAMMING](http://tinyurl.com/y5k48cfh)
 4. [JS FOR FRONT-END BOOTSTRAP](http://tinyurl.com/y5jhq2a2)
 5. [TEMPLATING](http://tinyurl.com/yxl54g4v)
-6. [ROUTING AND ARCHITECTURE](https://tinyurl.com/yxm9lx4p)
+6. [ROUTING AND ARCHITECTURE](http://tinyurl.com/y53f6meg)
 
 # EXAM PREP
 1. [JS Fundamentals](https://tinyurl.com/y2ue6hyb)
