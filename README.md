@@ -30,9 +30,9 @@
 # EXAM PREP
 1. [JS Fundamentals](https://tinyurl.com/y2ue6hyb)
 2. [JS Advanced](https://tinyurl.com/y4m4o9uk)
-3. [JS Applications](https://tinyurl.com/y5rxlgmm)
+3. [JS Applications Single-page application](https://tinyurl.com/y5rxlgmm)
 
 # EXAM
 1. [JS Fundamentals - 10.02.2019](http://tinyurl.com/yxdhljoj)
 2. [JS Advanced](https://tinyurl.com/y4m4o9uk)
-3. [JS Applications](https://tinyurl.com/y5rxlgmm)
+3. [JS Applications Single-page application](https://tinyurl.com/y5rxlgmm)
