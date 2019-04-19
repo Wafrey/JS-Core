@@ -35,4 +35,4 @@
 # EXAM
 1. [JS Fundamentals - 10.02.2019](http://tinyurl.com/yxdhljoj)
 2. [JS Advanced](https://tinyurl.com/y4m4o9uk)
-3. [JS Applications Single-page application](https://tinyurl.com/y5rxlgmm)
+3. [JS Applications Single-page application - 14.04.2019](https://tinyurl.com/y5erk8v8)
